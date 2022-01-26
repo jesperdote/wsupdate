@@ -1,8 +1,6 @@
 # wsupdate
 Workstation Update Hostname and Reverse SSH IP
 
-cd /tmp
-
 Login as itops
 su itops
 
