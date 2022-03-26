@@ -7,4 +7,7 @@ su itops
 $ cd /tmp  
 $ git clone git@github.com:jesperdote/wsupdate  
 $ cd wsupdate  
-$ bash wsupdate/wsupdate.sh <NEW HOSTNAME> <REVERSE SSH IP>  
+$ bash wsupdate/wsupdate.sh <NEW HOSTNAME> <REVERSE SSH IP> 
+
+##
+### 
