@@ -1,5 +1,5 @@
 #!/bin/bash
-
+## Edit here
 if [ ! -n "$1" ] ; then
 	echo 'Missing argument: new_hostname'
 	exit 1
